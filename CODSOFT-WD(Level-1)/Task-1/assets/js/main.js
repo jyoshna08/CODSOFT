@@ -103,7 +103,3 @@ inputs.forEach((input) =>{
     input.addEventListener("blur", blurFunc);
 
 })
-
-/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
-
-/*=============== SHOW SCROLL UP ===============*/
